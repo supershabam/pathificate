@@ -1,6 +1,6 @@
 {
   "name": "pathificate",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "returns an array of all paths in an object",
   "main": "index.js",
   "scripts": {
