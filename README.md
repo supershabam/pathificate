@@ -53,3 +53,4 @@ pathificate({
   subObjectWithNoValues: {}
   arr: ["val", 2, {obj: "value"}]
 }, {includeObjects: true});
+```
